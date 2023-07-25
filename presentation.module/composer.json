@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "PresentModule\\App\\": "app/",
+      "PresentModule\\DB\\": "install/db/"
+    }
+  },
+  "require": {
+    "phpoffice/phpspreadsheet": "^1.23"
+  }
+}
